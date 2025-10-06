@@ -30,22 +30,21 @@ Dalam latihan ini, Git mempelajari cara:
 1. **Clone repository ini**
    ```bash
    git clone https://github.com/G1ts-3/LatihanMinggu4.git
-Masuk ke folder proyek
-
-bash
-Copy code
-cd LatihanMinggu4
-Kompilasi file Java
-
-bash
-Copy code
-javac NamaFile.java
-Jalankan program
-
-bash
-Copy code
-java NamaFile
-Gantilah NamaFile dengan nama file Java yang ingin dijalankan (misalnya Percabangan.java).
+2. **Masuk ke folder proyek**
+    ```bash
+    Copy code
+    cd LatihanMinggu4
+3. **Kompilasi file Java**
+  
+    ```bash
+    Copy code
+    javac NamaFile.java
+4. **Jalankan program**
+    
+    ```bash
+    Copy code
+    java NamaFile
+    Gantilah NamaFile dengan nama file Java yang ingin dijalankan (misalnya Percabangan.java).
 
 ---
 
